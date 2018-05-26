@@ -1,0 +1,5 @@
+sys-apps/openrc -ncurses
+sys-apps/busybox -static make-symlinks savedconfig syslog
+sys-apps/file -zlib
+sys-apps/kmod -zlib
+sys-fs/eudev -hwdb
